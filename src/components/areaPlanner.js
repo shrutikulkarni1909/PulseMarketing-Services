@@ -1,5 +1,5 @@
 // =============================================
-// PowerTrack Pro – Area Planner Component
+// Area Planner Component
 // Groups customers by area who are due within
 // the selected window (3 / 7 / 14 days) so
 // visits can be batched efficiently.

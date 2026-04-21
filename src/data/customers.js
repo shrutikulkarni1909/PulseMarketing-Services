@@ -1,5 +1,5 @@
 // =============================================
-// PowerTrack Pro – Customer Data Store
+// Customer Data Store
 // =============================================
 
 function daysAgo(n) {

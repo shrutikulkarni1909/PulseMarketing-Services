@@ -1,5 +1,5 @@
 // =============================================
-// PowerTrack Pro – Modals Component
+// Modals Component
 // Handles: Reschedule, Add/Edit, Mark Done, Customer Detail
 // =============================================
 

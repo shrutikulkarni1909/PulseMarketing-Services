@@ -1,5 +1,5 @@
 // =============================================
-// PowerTrack Pro – App Controller
+//  App Controller
 // =============================================
 
 const PAGE_TITLES = {

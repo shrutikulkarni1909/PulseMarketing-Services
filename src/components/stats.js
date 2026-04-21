@@ -1,5 +1,5 @@
 // =============================================
-// PowerTrack Pro – Stats Component
+// Stats Component
 // =============================================
 
 function renderStats() {

@@ -1,5 +1,5 @@
 // =============================================
-// PowerTrack Pro – Customers List Component
+// Customers List Component
 // =============================================
 
 function populateAreaFilter() {

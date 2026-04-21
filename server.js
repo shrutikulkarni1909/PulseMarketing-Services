@@ -1,5 +1,5 @@
 // =============================================
-// PowerTrack Pro – Server (MongoDB Atlas)
+// Server (MongoDB Atlas)
 // =============================================
 
 const http            = require('http');
@@ -145,7 +145,7 @@ const server = http.createServer(async (req, res) => {
 connectDB()
   .then(() => {
     server.listen(PORT, '0.0.0.0', () => {
-      console.log(`  🚀 PowerTrack Pro running on port ${PORT}`);
+      console.log(`Running on port ${PORT}`);
     });
   })
   .catch(err => {

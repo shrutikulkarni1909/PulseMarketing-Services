@@ -1,5 +1,5 @@
 // =============================================
-// PowerTrack Pro – Schedule Component
+// Schedule Component
 // =============================================
 
 function renderSchedule() {

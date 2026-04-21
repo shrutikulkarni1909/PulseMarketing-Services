@@ -1,5 +1,5 @@
 // =============================================
-// PowerTrack Pro – Today's Schedule Component
+// Today's Schedule Component
 // =============================================
 
 function renderToday() {

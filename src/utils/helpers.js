@@ -1,5 +1,5 @@
 // =============================================
-// PowerTrack Pro – Utility Helpers
+// Utility Helpers
 // =============================================
 
 const TODAY = (() => { const d = new Date(); d.setHours(0,0,0,0); return d; })();

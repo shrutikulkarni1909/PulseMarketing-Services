@@ -1,5 +1,5 @@
 {
-  "name": "powertrack-pro",
+  "name": "battery_maintenance_system",
   "version": "1.0.0",
   "description": "Battery maintenance tracking system",
   "main": "server.js",
